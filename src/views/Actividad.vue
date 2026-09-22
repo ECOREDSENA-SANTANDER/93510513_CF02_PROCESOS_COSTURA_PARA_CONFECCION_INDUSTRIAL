@@ -22,7 +22,7 @@ export default {
       tema: 'Procesos de costura y terminados.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> la comprensión de los conceptos técnicos relacionados con operaciones de ensamble, técnicas de costura industrial, ruta operacional, tiempos básicos, flujo de producción y parámetros de calidad en prendas confeccionadas.',
+        '<b> Objetivo:</b> verificar la comprensión de los conceptos técnicos relacionados con operaciones de ensamble, técnicas de costura industrial, ruta operacional, tiempos básicos, flujo de producción y parámetros de calidad en prendas confeccionadas.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',

@@ -373,7 +373,7 @@
               .titulo-sexto.mb-4
                 h5 Figura 1.
                 | Presillas en pantalón
-              img(src='@/assets/curso/tema1/9.png',alt='Primer plano de una trabilla de jean con costuras reforzadas y textura de tela gruesa.')
+              img(src='@/assets/curso/tema1/9.png', alt='Primer plano de una trabilla de jean con costuras reforzadas y textura de tela gruesa.')
           .row.justify-content-center.align-items-center(titulo="Pegado de botón")
             .col-lg-6.mb-lg-0.mb-4
               p.mb-4 El pegado de botón asegura la unión entre el botón y la prenda mediante puntadas controladas. Esta operación puede realizarse sobre botones de dos perforaciones, cuatro perforaciones, botón de vástago u otros sistemas, según el diseño del producto. Su aplicación exige correspondencia entre el tamaño del botón, el tipo de hilo, la separación entre perforaciones, el espesor del material y la ubicación marcada en el patrón o en la ficha técnica.
@@ -382,7 +382,7 @@
               .titulo-sexto.mb-4
                 h5 Figura 2.
                 | Tipos de pegado de botón
-              img(src='@/assets/curso/tema1/10.png',alt='Conjunto de botones con diferentes patrones de costura decorativa realizados mediante el entrecruzamiento de hilos en cuatro perforaciones.')
+              img(src='@/assets/curso/tema1/10.png', alt='Conjunto de botones con diferentes patrones de costura decorativa realizados mediante el entrecruzamiento de hilos en cuatro perforaciones.')
           .row.justify-content-center.align-items-center(titulo="Elaboración de ojal")
             .col-lg-6.mb-lg-0.mb-4
               p.mb-4 El ojal es una abertura terminada que permite el paso del botón y forma parte del sistema de cierre de la prenda. Su desarrollo técnico combina corte, recubrimiento del borde y control dimensional, ya que el tamaño del ojal debe corresponder al diámetro y grosor del botón. Un ojal demasiado corto dificulta el cierre; uno demasiado largo reduce estabilidad y puede ocasionar apertura involuntaria.
@@ -391,7 +391,7 @@
               .titulo-sexto.mb-4
                 h5 Figura 3.
                 | Tipos de ojales básicos
-              img(src='@/assets/curso/tema1/11.svg',alt='Infografía que presenta diferentes tipos de ojales utilizados en confección, diferenciados por su forma y técnica de elaboración.')
+              img(src='@/assets/curso/tema1/11.svg', alt='Infografía que presenta diferentes tipos de ojales utilizados en confección, diferenciados por su forma y técnica de elaboración.')
           .row.justify-content-center.align-items-center(titulo="Bordado básico")
             .col-lg-7.mb-lg-0.mb-4
               p.mb-4 El bordado básico aplica elementos gráficos o decorativos sobre la superficie textil mediante puntadas programadas o controladas. En el sistema de confección, esta operación puede utilizarse para identificar prendas institucionales, incorporar logotipos, personalizar productos, reforzar identidad de marca o añadir detalles ornamentales a una colección.
@@ -446,7 +446,7 @@
                     .titulo-sexto.mb-4
                       h5 Figura 4.
                       | Bordado realizado con una máquina de uso familiar
-                    img.img-t.img-a(src='@/assets/curso/tema1/13.png',alt='Máquina bordadora computarizada utilizada para realizar diseños decorativos automatizados sobre diferentes tipos de tejidos.')
+                    img.img-t.img-a(src='@/assets/curso/tema1/13.png', alt='Máquina bordadora computarizada utilizada para realizar diseños decorativos automatizados sobre diferentes tipos de tejidos.')
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -459,7 +459,7 @@
                     .titulo-sexto.mb-4
                       h5 Figura 5.
                       | Bordado realizado con una máquina industrial de un cabezal
-                    img.img-t.img-a(src='@/assets/curso/tema1/14.png',alt='Máquina bordadora industrial de una cabeza con múltiples agujas, diseñada para realizar bordados automatizados sobre prendas de vestir.')
+                    img.img-t.img-a(src='@/assets/curso/tema1/14.png', alt='Máquina bordadora industrial de una cabeza con múltiples agujas, diseñada para realizar bordados automatizados sobre prendas de vestir.')
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
@@ -472,7 +472,7 @@
                     .titulo-sexto.mb-4
                       h5 Figura 6.
                       | Bordado realizado con una máquina industrial de múltiples cabezales
-                    img(src='@/assets/curso/tema1/15.png',alt='Máquina bordadora industrial multicabezal utilizada para producir bordados simultáneos en serie sobre grandes superficies textiles.')
+                    img(src='@/assets/curso/tema1/15.png', alt='Máquina bordadora industrial multicabezal utilizada para producir bordados simultáneos en serie sobre grandes superficies textiles.')
 
     .cajon.color-acento-b.p-4.mb-5(data-aos="fade-left")
       p.mb-0 Antes de continuar con el siguiente tema, se invita a consultar el siguiente video, en el que se presenta una explicación práctica sobre las principales operaciones especializadas utilizadas en la confección industrial. A través de este recurso podrá comprender la función del presillado, el pegado de botón, la elaboración de ojales y el bordado básico, así como la importancia de ejecutar cada operación conforme a las especificaciones técnicas y los criterios de calidad establecidos. Este material fortalecerá los conocimientos desarrollados en este apartado y facilitará la comprensión de su aplicación dentro del proceso productivo.

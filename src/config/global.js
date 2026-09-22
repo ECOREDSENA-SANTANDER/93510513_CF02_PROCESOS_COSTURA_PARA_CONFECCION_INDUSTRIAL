@@ -294,7 +294,7 @@ export default {
       autores: [
         {
           nombre: 'Paola Angélica Castro Salazar',
-          cargo: 'Experta Temática',
+          cargo: 'Experta temática',
           centro: 'Centro Agroturístico – Regional Santander',
         },
         {
