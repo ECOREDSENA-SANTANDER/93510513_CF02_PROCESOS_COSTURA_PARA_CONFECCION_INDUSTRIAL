@@ -122,7 +122,7 @@
         img(src='@/assets/curso/tema3/6.png')
 
     .cajon.color-acento-b.p-4.mb-0(data-aos="fade-right")
-      h4.mb-3 Función de la ruta operacional
+      h4.mb-3 Nota técnica: 
       p.mb-0 El orden de ensamble varía según la tipología de prenda. Una camisa, un pantalón, una chaqueta o una prenda deportiva presentan secuencias diferentes, aunque puedan compartir operaciones como costura recta, fileteado, pegado de botón, ojal o dobladillo.
 
     separador
@@ -217,7 +217,7 @@
                 td Pegar manga
                 td Máquina plana
                 td 1,20 minutos
-                td Alineación de piquetes y ausencia de fruncesno previstos.
+                td Alineación de piquetes y ausencia de frunces no previstos.
               tr
                 td Dobladillar ruedo
                 td Recubridora o plana

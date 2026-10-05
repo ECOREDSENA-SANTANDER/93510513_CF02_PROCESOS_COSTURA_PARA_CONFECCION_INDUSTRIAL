@@ -68,7 +68,8 @@
       .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/tema4/5.png')
     
-    p.mb-0(data-aos="fade-left") Los parámetros de calidad permiten identificar conformidades y no conformidades en la prenda. Una costura desviada, una pieza asimétrica, un cierre defectuoso, un botón mal ubicado o un acabado con hilos sueltos pueden afectar la presentación, la durabilidad o el uso del producto. La revisión sistemática evita que estos defectos avancen dentro de la línea de producción y reduce reprocesos, devoluciones o pérdidas de material.
+    p.mb-0(data-aos="fade-left") La evaluación de estos parámetros permite establecer si el producto responde a las condiciones técnicas esperadas. Además, facilita la trazabilidad del proceso, ya que cada defecto identificado puede relacionarse con una operación, una máquina, un insumo o una fase específica de producción.
+    
 
     separador
     #t_4_1.titulo-segundo.mb-5
