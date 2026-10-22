@@ -119,68 +119,68 @@
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/BlsIooZH9gg?si=97mI0_ggIkwuVaIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 1 alistamiento de herramientas
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/flBQ_7Rpd6c?si=6kFD2n7-fX-AVrxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad - Paso 1
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/wtHBYpvY2qg?si=fQvmamO4zrR8YKRr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 2 limpieza y orden del puesto d
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/Irek1OJp0Fo?si=QIgtDmMsL47hsZtl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad - Paso 2
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/e3VIQuI2CPc?si=7DTGsfJO6n2Om53K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 3 enhebrado de hilo para #[em Looper]
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/0kYGQjMeHLs?si=apUZK_xdCjG7fHKZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad - Paso 3
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/C60vi8djPhA?si=WQ4Ze4TabeTL7dxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 4 enhebrado de hilo para #[em Looper]
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/DOG6D5bEt-Y?si=MBMZ0kDgIW5OeSV1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad - Paso 4
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/7MPnUCYW0Qg?si=NiXuZ3YS2py38WGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 5 enhebrado de hilo para aguja
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/j5Jh83__Pa0?si=0aMGSq2Ta8oBE_yZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad - Paso 5
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/Y4GHFnR_Hq0?si=pO-oEDgruciyda2q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 6 enhebrado de hilo para aguja
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/212I54SfmfA?si=ky5NCMBRB0bQuSoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad - Paso 6
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/Y_KBM8O2lIY?si=0QcIwtmpggGPWj7x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 7 enhebrado de hilo para #[em Looper]
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/EReJD8K1U9I?si=rDbbRw76VXI6S50D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad - Paso 7
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/uv3mjlOymIE?si=w4TblMhbjpDzw1X5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 8 prueba de costura
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/I1AUWjZJ4No?si=YFv27cf0kD0pdLJK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad - Paso 8
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/PMS6lRthWnQ?si=BSiCjyLuYuzVM8Q_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 9 tensión de la máquina
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/kIBGQ1-UNPk?si=AdeF4orqQfHV8XRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad - Paso 9
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/Cf2gPlXy88s?si=bQ4-Uap_EwB4LnjD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 10 calibración de puntada
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/Vmqb8gsw8Ys?si=QAaQ4oAyQnRGoCfP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad - Paso 10
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/Nz1r5rl-xXQ?si=A0BcHqftcdiUgY31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 11 nivel de arrastre 
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/Vruid3fDKaA?si=0-0vP-II2jKOfEE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad - Paso 11
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/Omjyi5Wbq_8?si=NniubSJAEH5MWvDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 12 nivel de aceite
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/18A8TeBJ9Vs?si=6xv8TJBYGE3ouEnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad - Paso 12
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/SqvF1VSJouU?si=yfvm6Nx44hscSNeV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad paso 13 dispositivos de seguridad.
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/Qvr_FtX7kfk?si=DNzefYr0n-TGkJj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto de máquina fileteadora con puntada de seguridad - Paso 13
 
     .tit.mb-5(data-aos="fade-left")
       img(:src="require_src('@/assets/curso/tema1/sub.svg')")
@@ -189,20 +189,20 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/giII2qtE8ig?si=9Xmoyot0dvhQbVTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Operaciones básicas para el manejo de máquina fileteadora Paso 1 Operación para unir piezas, en
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/Hdts2Gyh1sw?si=5hw5xqIVNsuoxB0d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Operaciones básicas para el manejo de máquina fileteadora Paso 1 Operación para unir piezas
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/vQuwUriVIhk?si=lo__zpIRTLvzePG6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Paso 2 Operación para hacer filete rect
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/Upg0Ki-GlmE?si=r6g_Xervz6AyagZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Operaciones básicas para el manejo de máquina fileteadora Paso 2 Operación para hacer filete recto
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/FMZdQb13rXU?si=y4VPVvqv6eN9oF8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Operaciones básicas para el manejo de máquina fileteadora Paso 3 Operación para rematar en filete
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/cTYaptACosQ?si=7mxAWKdYD8l1dUGT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Operaciones básicas para el manejo de máquina fileteadora Paso 3 Operación para rematar en filete
 
     .tit.mb-5(data-aos="fade-left")
       img(:src="require_src('@/assets/curso/tema1/sub.svg')")
@@ -215,53 +215,53 @@
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/wknm68GFs4w?si=aFHdscl6aiLM6b5l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto máquina plana de una aguja paso 1 alistamiento de herramientas y elementos
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/8KMdKLsGeXI?si=EMSObeyFz8SAJjnz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto máquina plana de una aguja paso 1 alistamiento de herramientas y elementos
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/r2nTYITcaBw?si=QcEzUlHkYp8oqVv1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto máquina plana de una aguja paso 2 limpieza y orden del puesto de trabajo
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/iPocisS7WjE?si=4OaV8ni0c1ubX40m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto máquina plana de una aguja paso 2 limpieza y orden del puesto de trabajo
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/gad5fcdDWuc?si=ulaHuRh-ziCXI7RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto máquina plana de una aguja paso 3 enhebrado hilo de aguja
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/2vCy8OngaCs?si=M2vMgVx0lEymJOnR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto máquina plana de una aguja paso 3 enhebrado hilo de aguja
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/2mX-Qv-_Gwg?si=0ikvTZDYuPVYrv6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto máquina plana de una aguja paso 4 enhebrado hilo de caja bobina
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/X4GulQIAfNk?si=Evhw2oxAeLLSZmlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto máquina plana de una aguja paso 4 enhebrado hilo de caja bobina
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/9WTfht-T0Xo?si=BZwkg5iiCTTORSDX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto máquina plana de una aguja paso 5 prueba de costura
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/95qqFifhf5U?si=PBuYH9ns8jWTCRNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto máquina plana de una aguja paso 5 prueba de costura
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/st_MxwyNK8o?si=-AMXR-MjzO8kN9pm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto máquina plana de una aguja paso 6 tensión requerida de la máquina
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/9sTc_Kdyq4I?si=uppUNYBC_l_Qrohf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto máquina plana de una aguja paso 6 tensión requerida de la máquina
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/7_E6Wc1TK44?si=3QThztNQaFpDyjmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto máquina plana de una aguja paso 7 calibración de acuerdo con las especificaciones
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/98kBVOcq-2w?si=5Bo5qGfjbpqAxbL7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto máquina plana de una aguja paso 7 calibración de acuerdo con las especificaciones
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/R3jbWgbGH4M?si=Smlk8QnwFPeu0Igs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto máquina plana de una aguja paso 8 Nivel de arrastre
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/FJnvY-4hMEk?si=TlsHp6LVlXWLR9iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto máquina plana de una aguja paso 8 Nivel de arrastre
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/dT2GM2rXUw4?si=OHfI0zsdxVkzFUF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto máquina plana de una aguja paso 9 Nivel de aceite
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/UdXEZFcnBrs?si=L6eXXBQDkeBRFKWl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto máquina plana de una aguja paso 9 Nivel de aceite
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/0dJ_CViXbsI?si=UxyQ6RW2AguyuiYr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Puesta a punto máquina plana de una aguja paso 10 Dispositivos de seguridad
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/ryLeBlADyCA?si=Hru8aGmdLtzfy0E0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Puesta a punto máquina plana de una aguja paso 10 Dispositivos de seguridad
 
     .tit.mb-5(data-aos="fade-left")
       img(:src="require_src('@/assets/curso/tema1/sub.svg')")
@@ -274,38 +274,38 @@
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/m6Bda8bTNxk?si=V2fqbofcrxygznAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Operaciones básicas para el manejo en máquina plana una aguja Paso 1 Costuras rectas a ¼ pulgada
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/ekwF948qscg?si=3EAW09SF_ECFeCFK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Operaciones básicas para el manejo en máquina plana de una aguja Paso 1
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/5vxh3RXCw8c?si=8YyP5s-GzcQAAetU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Operaciones básicas para el manejo en máquina plana una aguja Paso 2 Costuras a alforzas de ¼”
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/Z9ZCp_foHH4?si=u31hVsJcohnysLW2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Operaciones básicas para el manejo en máquina plana de una aguja Paso 2
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/Sv7X27S7MSE?si=8RnykurRAyKcYKy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Operaciones básicas para el manejo en máquina plana una aguja Paso 3 Costuras a alforzas de 1 16”
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/FjBGuqsTE5c?si=sMRIjtYwAbGz9gQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Operaciones básicas para el manejo en máquina plana de una aguja Paso 3
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/fUW6xKvpzs0?si=kJhGK0cxsG1bx8Ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Operaciones básicas para el manejo en máquina plana una aguja Paso 4 Pegar bolsillos
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/l7TtKJT6UkI?si=Ucmck5ea8QXFd479" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Operaciones básicas para el manejo en máquina plana de una aguja Paso 4
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/wULIEdIahzE?si=PhunLE7Zjm1uJUlZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Operaciones básicas para el manejo en máquina plana una aguja Paso 5 Bolsillo de ribete sencillo
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/u3M8N9yZezU?si=Nbrm_ES6eaP-vmby" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Operaciones básicas para el manejo en máquina plana de una aguja Paso 5
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/4kT8atODsIQ?si=4RsXnVr9BqrJjKwe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Operaciones básicas para el manejo en máquina plana una aguja Paso 6 Bolsillo de ribete doble
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/LTTsA3P-mSs?si=8nA_jchCzqICMxWb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Operaciones básicas para el manejo en máquina plana de una aguja Paso 6
             .row.justify-content-center.align-items-center.mb-0(titulo="")
               .col-lg-11
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/V8PrD9bgvb8?si=BDOGVZGkUYHCxN4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-                figcaption Video. Operaciones básicas para el manejo en máquina plana una aguja Paso 7 Coser pechera sencilla
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/P7tGrZIEPQU?si=NAqXtMpAWIq0OZ6y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                figcaption Video. Operaciones básicas para el manejo en máquina plana de una aguja Paso 7
 
     separador
     #t_1_2.titulo-segundo.mb-5
@@ -481,7 +481,7 @@
       .col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/4G54SSkiE8o?si=Gz61HFYLZV2am8KO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Procesos especializados para el ensamble y acabado de prendas
 
 
